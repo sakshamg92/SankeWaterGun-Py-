@@ -1,2 +1,2 @@
 # SankeWaterGun-Py-
-Using Python basics made a game
+# Using Python basics made a game
